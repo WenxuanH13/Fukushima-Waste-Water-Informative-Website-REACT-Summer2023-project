@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Fukushima-Waste-Water-Informative-Website-REACT-Summer2023-project/static/css/main.fc5b14a6.css",
+    "main.js": "/Fukushima-Waste-Water-Informative-Website-REACT-Summer2023-project/static/js/main.401f2177.js",
+    "static/media/video-3.mp4": "/Fukushima-Waste-Water-Informative-Website-REACT-Summer2023-project/static/media/video-3.c5ba70b2e8707f21c2f5.mp4",
+    "static/media/crowded.jpg": "/Fukushima-Waste-Water-Informative-Website-REACT-Summer2023-project/static/media/crowded.b7841c51976d8a59eaef.jpg",
+    "static/media/picture2.jpg": "/Fukushima-Waste-Water-Informative-Website-REACT-Summer2023-project/static/media/picture2.dd2aa3e288627bb0edb2.jpg",
+    "static/media/picture1.jpg": "/Fukushima-Waste-Water-Informative-Website-REACT-Summer2023-project/static/media/picture1.6f2cf1b3d548631a7f9c.jpg",
+    "static/media/japProtest.jpg": "/Fukushima-Waste-Water-Informative-Website-REACT-Summer2023-project/static/media/japProtest.2c8ba93bf4da02d3bc5d.jpg",
+    "static/media/korProtest.jpg": "/Fukushima-Waste-Water-Informative-Website-REACT-Summer2023-project/static/media/korProtest.d6fcb921b07fb1f55627.jpg",
+    "index.html": "/Fukushima-Waste-Water-Informative-Website-REACT-Summer2023-project/index.html",
+    "main.fc5b14a6.css.map": "/Fukushima-Waste-Water-Informative-Website-REACT-Summer2023-project/static/css/main.fc5b14a6.css.map",
+    "main.401f2177.js.map": "/Fukushima-Waste-Water-Informative-Website-REACT-Summer2023-project/static/js/main.401f2177.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fc5b14a6.css",
+    "static/js/main.401f2177.js"
+  ]
+}
